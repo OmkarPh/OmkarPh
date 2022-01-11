@@ -64,12 +64,11 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmkarPh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="OmkarPh" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmkarPh&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight" alt="OmkarPh" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmkarPh&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true" alt="OmkarPh" />
 </p>
 
 <p>
-<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarPh&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="OmkarPh" /> -->
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmkarPh&show_icons=true&count_private=true&theme=tokyonight" alt="OmkarPh" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarPh&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="OmkarPh" />
 </p>
 
