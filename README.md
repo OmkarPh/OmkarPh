@@ -9,12 +9,15 @@
 </h3>
 
 <p align="left"> 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=OmkarPh" alt="Omkar Phansopkar" /> 
+  <img src="https://komarev.com/ghpvc/?username=OmkarPh&label=Profile%20views&color=blueviolet&style=flat" alt="Profile view service is probably down :(" /> 
 </p>
 
-- 💬 Lets talk about **Blockchain** & **Web dev**
+- 💬&nbsp; Lets talk about **Blockchain** & **Web dev**
+- 📫&nbsp; **omkarphansopkar@gmail.com**
 
-- 📫 **omkarphansopkar@gmail.com**
+- Quick links
+  - <a href="https://drive.google.com/file/d/1dOQjE_NJDJzn4Vx68qE52pLKrfNYznyf/view" target="_blank">Resume</a>
+  - <a href="https://auth.geeksforgeeks.org/user/omkarphansopkar/articles" target="_blank">My articles</a>
 
 <h3 align="left">
   Connect with me:
@@ -26,9 +29,6 @@
   </a>
   <a href="https://www.linkedin.com/in/omkarphansopkar/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@omkarphansopkar" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/omkarphansopkar/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@omkarphansopkar" height="30" width="40" />
   </a>
 </p>
 
@@ -62,7 +62,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
   </a>
 </p>
-
+<br/>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmkarPh&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight" alt="OmkarPh" />  
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmkarPh&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true" alt="OmkarPh" />
