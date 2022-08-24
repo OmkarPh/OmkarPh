@@ -13,8 +13,11 @@
 </p>
 
 - 💬&nbsp; Lets talk about **Blockchain** & **Web dev**
+
 - 📫&nbsp; **omkarphansopkar@gmail.com**
+
 - 📄&nbsp; <a href="https://drive.google.com/file/d/1dOQjE_NJDJzn4Vx68qE52pLKrfNYznyf/view" target="_blank">Resume</a>
+
 - 📝&nbsp; <a href="https://auth.geeksforgeeks.org/user/omkarphansopkar/articles" target="_blank">GfG articles</a>
 
 <h3 align="left">
