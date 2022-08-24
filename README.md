@@ -1,6 +1,7 @@
 <h1 align="center">
   Hi 
   <img src="https://user-images.githubusercontent.com/72618584/136240367-bbd513b9-ca0a-4fba-985e-8aec33b26f2e.gif" width ="35" alt "#">
+  &nbsp;&nbsp;&nbsp;
   I'm Omkar Phansopkar
 </h1>
 
