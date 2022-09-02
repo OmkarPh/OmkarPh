@@ -20,12 +20,10 @@
 - 📄&nbsp; <a href="https://drive.google.com/file/d/1dOQjE_NJDJzn4Vx68qE52pLKrfNYznyf/view" target="_blank">Resume</a>
 
 - 📝&nbsp; <a href="https://auth.geeksforgeeks.org/user/omkarphansopkar/articles" target="_blank">GfG articles</a>
-
-<h3 align="left">
-  Connect with me:
-</h3>
+<br/>
 
 <p align="left">
+  👉 &nbsp;
   <a href="https://twitter.com/omkarphansopkar" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@omkarphansopkar" height="30" width="40" />
   </a>
