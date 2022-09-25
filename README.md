@@ -13,24 +13,20 @@
   <img src="https://komarev.com/ghpvc/?username=OmkarPh&label=Profile%20views&color=blueviolet&style=flat" alt="Profile view service is probably down :(" /> 
 </p>
 
-- 💬&nbsp; Lets talk about **Blockchain** & **Web dev**
+- 💬&nbsp; Lets talk about **Blockchain**, **dApps**, **Web dev**
 
 - 📫&nbsp; **omkarphansopkar@gmail.com**
 
 - 📄&nbsp; <a href="https://drive.google.com/file/d/1dOQjE_NJDJzn4Vx68qE52pLKrfNYznyf/view" target="_blank">Resume</a>
 
 - 📝&nbsp; <a href="https://auth.geeksforgeeks.org/user/omkarphansopkar/articles" target="_blank">GfG articles</a>
-<br/>
 
-<p align="left">
-  👉 &nbsp;
-  <a href="https://twitter.com/omkarphansopkar" target="_blank">
+- <a href="https://twitter.com/omkarphansopkar" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@omkarphansopkar" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/omkarphansopkar/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@omkarphansopkar" height="30" width="40" />
   </a>
-</p>
 
 <br/>
 <p>
