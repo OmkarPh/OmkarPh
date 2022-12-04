@@ -1,13 +1,13 @@
-<h1 align="center">
-  Hi 
-  <img src="https://user-images.githubusercontent.com/72618584/136240367-bbd513b9-ca0a-4fba-985e-8aec33b26f2e.gif" width ="35" alt "#">
-  &nbsp;&nbsp;&nbsp;
-  I'm Omkar Phansopkar
-</h1>
-
 <h3 align="center">
-  Full stack developer from Mumbai, India
+  Hi &nbsp;
+  <img src="https://user-images.githubusercontent.com/72618584/136240367-bbd513b9-ca0a-4fba-985e-8aec33b26f2e.gif" width ="35" alt "#">
+  &nbsp;&nbsp;
+  I'm a Full stack developer from Mumbai, India
 </h3>
+<!-- 
+<h3 align="center">
+  
+</h3> -->
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=OmkarPh&label=Profile%20views&color=blueviolet&style=flat" alt="Profile view service is probably down :(" /> 
