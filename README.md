@@ -20,13 +20,8 @@
 
 - 📝&nbsp; <a href="https://auth.geeksforgeeks.org/user/omkarphansopkar/articles" target="_blank">GfG articles</a>
 
-- <a href="https://twitter.com/omkarphansopkar" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@omkarphansopkar" height="30" width="40" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/omkarphansopkar/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@omkarphansopkar" height="30" width="40" />
-  </a>
+- <a href="https://twitter.com/omkarphansopkar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@omkarphansopkar" height="30" width="40" /></a><a href="https://www.linkedin.com/in/omkarphansopkar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@omkarphansopkar" height="30" width="40" /></a>
+
 
 <!--
 <br/>
@@ -40,8 +35,7 @@
 <!--<h3 align="center">Statistics</h3>-->
 <div align="center">
 <a href="https://github.com/OmkarPh">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmkarPh&count_private=true&theme=algolia" height="180em"/>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmkarPh&count_private=true&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmkarPh&count_private=true&theme=algolia" height="180em"/><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmkarPh&count_private=true&theme=algolia" height="180em" />
 <!--<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmkarPh&count_private=true&theme=2077" height="180em" />-->
 <!--<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmkarPh&count_private=true&theme=2077" height="180em" />-->
 </div>
